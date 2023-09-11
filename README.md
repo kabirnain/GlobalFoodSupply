@@ -6,7 +6,9 @@ This repository contains the analytics project focused on assessing global food 
 
 **Usage** 
 
-Download the folder and open the twb file or explore the PDF version showcasing the main visualizations.
+Download the Files folder and open the twb file, making sure the WorldFood.twb, PopD.xlsx and 2019 export for Tableau.csv files are in the same folder. 
+
+You can also explore the PDF version showcasing the main visualizations.
 
 **Datasets**
 
